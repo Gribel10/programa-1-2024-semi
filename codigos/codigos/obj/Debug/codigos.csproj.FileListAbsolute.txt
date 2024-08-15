@@ -1,0 +1,10 @@
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\bin\Debug\codigos.exe.config
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\bin\Debug\codigos.exe
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\bin\Debug\codigos.pdb
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\obj\Debug\codigos.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\obj\Debug\codigos.Form1.resources
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\obj\Debug\codigos.Properties.Resources.resources
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\obj\Debug\codigos.csproj.GenerateResource.cache
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\obj\Debug\codigos.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\obj\Debug\codigos.exe
+C:\Users\ayala\OneDrive\Escritorio\github\codigos\codigos\obj\Debug\codigos.pdb
