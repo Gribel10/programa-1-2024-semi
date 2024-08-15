@@ -1,0 +1,10 @@
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\bin\Debug\miprimerproyecto.exe.config
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\bin\Debug\miprimerproyecto.exe
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\bin\Debug\miprimerproyecto.pdb
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.Form1.resources
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.Properties.Resources.resources
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.csproj.GenerateResource.cache
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.exe
+C:\Users\ayala\OneDrive\Escritorio\github\miprimerproyecto\miprimerproyecto\obj\Debug\miprimerproyecto.pdb
