@@ -1,0 +1,10 @@
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\bin\Debug\ejercicios.exe.config
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\bin\Debug\ejercicios.exe
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\bin\Debug\ejercicios.pdb
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\obj\Debug\ejercicios.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\obj\Debug\ejercicios.Form1.resources
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\obj\Debug\ejercicios.Properties.Resources.resources
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\obj\Debug\ejercicios.csproj.GenerateResource.cache
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\obj\Debug\ejercicios.exe
+C:\Users\ayala\OneDrive\Escritorio\github\ejercicios\ejercicios\obj\Debug\ejercicios.pdb
