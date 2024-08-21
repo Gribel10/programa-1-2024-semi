@@ -1,0 +1,7 @@
+C:\Users\ayala\OneDrive\Documents\GitHub\laboratorio2\laboratorio2\laboratorio2\bin\Debug\laboratorio2.exe.config
+C:\Users\ayala\OneDrive\Documents\GitHub\laboratorio2\laboratorio2\laboratorio2\bin\Debug\laboratorio2.exe
+C:\Users\ayala\OneDrive\Documents\GitHub\laboratorio2\laboratorio2\laboratorio2\bin\Debug\laboratorio2.pdb
+C:\Users\ayala\OneDrive\Documents\GitHub\laboratorio2\laboratorio2\laboratorio2\obj\Debug\laboratorio2.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Documents\GitHub\laboratorio2\laboratorio2\laboratorio2\obj\Debug\laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Documents\GitHub\laboratorio2\laboratorio2\laboratorio2\obj\Debug\laboratorio2.exe
+C:\Users\ayala\OneDrive\Documents\GitHub\laboratorio2\laboratorio2\laboratorio2\obj\Debug\laboratorio2.pdb
