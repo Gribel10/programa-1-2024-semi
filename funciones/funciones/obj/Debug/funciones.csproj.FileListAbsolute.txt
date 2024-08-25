@@ -1,0 +1,7 @@
+C:\Users\ayala\OneDrive\Documents\Funciones\funciones\funciones\bin\Debug\funciones.exe.config
+C:\Users\ayala\OneDrive\Documents\Funciones\funciones\funciones\bin\Debug\funciones.exe
+C:\Users\ayala\OneDrive\Documents\Funciones\funciones\funciones\bin\Debug\funciones.pdb
+C:\Users\ayala\OneDrive\Documents\Funciones\funciones\funciones\obj\Debug\funciones.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Documents\Funciones\funciones\funciones\obj\Debug\funciones.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Documents\Funciones\funciones\funciones\obj\Debug\funciones.exe
+C:\Users\ayala\OneDrive\Documents\Funciones\funciones\funciones\obj\Debug\funciones.pdb
