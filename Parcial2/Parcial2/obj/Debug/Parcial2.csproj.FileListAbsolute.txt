@@ -1,0 +1,13 @@
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\bin\Debug\Usuario.mdf
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\bin\Debug\Usuario_log.ldf
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\obj\Debug\Parcial2.Form1.resources
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\obj\Debug\Parcial2.Frm_usuario.resources
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\ayala\OneDrive\Escritorio\Parcial II\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
